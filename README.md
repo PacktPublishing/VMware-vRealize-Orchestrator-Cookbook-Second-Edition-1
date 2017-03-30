@@ -5,11 +5,11 @@ By Packt
 
 This is the code repository for [VMware vRealize Orchestrator Cookbook Second Edition](https://www.packtpub.com/virtualization-and-cloud/vmware-vrealize-orchestrator-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781786462787), published by [Packt Publishing](https://www.packtpub.com/). All the example workflows that are mentioned in the book are present in the package.
 
-##Who this book is for?
+## Who this book is for?
 This book addresses intermediate and advanced VMware enthusiast. You should have
 some know-how about Orchestrator. 
 
-###Software and Hardware Requirements
+### Software and Hardware Requirements
 You can use this book with Orchestrator versions 5.0, 5.1, and 5.5 and with the renamed
 version, vRealize Orchestrator (5.5.2.x, 6.x, 7.x, and newer).
 
@@ -24,7 +24,7 @@ NSX| NSX Manager |Appliance, 2 vCPU,16 GB, 60 GB|
 vROPS| vROPS Appliance |Appliance, 4 vCPU, 16 GB, 270 GB|
 vLI |vRealize Loginsight |Appliance, 4 vCPU, 8 GB, 530 GB|
 
-###Related Books
+### Related Books
 
 * [VMware vRealize Orchestrator Essentials](https://www.packtpub.com/virtualization-and-cloud/vmware-vrealize-orchestrator-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781785884245)
 
@@ -32,7 +32,7 @@ vLI |vRealize Loginsight |Appliance, 4 vCPU, 8 GB, 530 GB|
 
 * [Mastering vRealize Automation 6.2](https://www.packtpub.com/virtualization-and-cloud/mastering-vrealize-automation-62?utm_source=github&utm_medium=repository&utm_campaign=9781782173779)
 
-###Suggestions and Feedback
+### Suggestions and Feedback
  [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
 
 
